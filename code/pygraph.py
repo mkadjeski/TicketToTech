@@ -52,7 +52,7 @@ LARGE_GRAPH = [
 # ===== SELECT WHICH GRAPH TO USE =====
 # graph = SMALL_GRAPH
 # graph = MEDIUM_GRAPH
-graph = SMALL_GRAPH   # <---- currently using large graph
+graph = SMALL_GRAPH   # <---- currently using small graph
 
 
 # ==========================================================
